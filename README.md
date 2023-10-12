@@ -39,12 +39,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
 # Initialize Project
 To initialize a React project with TypeScript and Tailwind CSS, you can follow these steps:
 
@@ -110,3 +104,9 @@ To start the development server and view your app in the browser, run the follow
 This will start the development server and open your app in the browser at http://localhost:3000.
 
 That's it! You have now initialized a React project with TypeScript and Tailwind CSS. You can continue building your app by creating React components, styling them with Tailwind CSS, and adding functionality with TypeScript.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
